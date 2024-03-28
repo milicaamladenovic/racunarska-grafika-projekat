@@ -1,4 +1,4 @@
-# Install script for directory: /home/ubuntu/Desktop/RG-projekat/project_base/libs/glad
+# Install script for directory: /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

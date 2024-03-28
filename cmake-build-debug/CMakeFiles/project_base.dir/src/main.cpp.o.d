@@ -1,8 +1,8 @@
 CMakeFiles/project_base.dir/src/main.cpp.o: \
- /home/ubuntu/Desktop/RG-projekat/project_base/src/main.cpp \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/libs/imgui/include/imgui.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/libs/imgui/include/imconfig.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imgui.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imconfig.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/float.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h /usr/include/string.h \
@@ -18,10 +18,10 @@ CMakeFiles/project_base.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /usr/include/assert.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/libs/imgui/include/imgui_impl_glfw.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/libs/imgui/include/imgui_impl_opengl3.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/libs/glad/include/glad/glad.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/libs/glad/include/KHR/khrplatform.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imgui_impl_glfw.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imgui_impl_opengl3.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad/include/glad/glad.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
@@ -242,7 +242,7 @@ CMakeFiles/project_base.dir/src/main.cpp.o: \
  /usr/include/glm/ext/vector_uint1.hpp \
  /usr/include/glm/ext/vector_uint1_precision.hpp \
  /usr/include/c++/9/cstring /usr/include/glm/gtc/type_ptr.inl \
- /home/ubuntu/Desktop/RG-projekat/project_base/include/learnopengl/filesystem.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/learnopengl/filesystem.h \
  /usr/include/c++/9/string /usr/include/c++/9/bits/stringfwd.h \
  /usr/include/c++/9/bits/memoryfwd.h \
  /usr/include/c++/9/bits/char_traits.h \
@@ -316,8 +316,8 @@ CMakeFiles/project_base.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/9/bits/functional_hash.h \
  /usr/include/c++/9/bits/basic_string.tcc \
- /home/ubuntu/Desktop/RG-projekat/project_base/cmake-build-debug/configuration/root_directory.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/include/learnopengl/shader.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/cmake-build-debug/configuration/root_directory.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/learnopengl/shader.h \
  /usr/include/c++/9/fstream /usr/include/c++/9/istream \
  /usr/include/c++/9/ios /usr/include/c++/9/bits/ios_base.h \
  /usr/include/c++/9/bits/locale_classes.h \
@@ -340,14 +340,14 @@ CMakeFiles/project_base.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++io.h \
  /usr/include/c++/9/bits/fstream.tcc /usr/include/c++/9/sstream \
  /usr/include/c++/9/bits/sstream.tcc /usr/include/c++/9/iostream \
- /home/ubuntu/Desktop/RG-projekat/project_base/include/common.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/include/learnopengl/camera.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/common.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/learnopengl/camera.h \
  /usr/include/c++/9/vector /usr/include/c++/9/bits/stl_construct.h \
  /usr/include/c++/9/bits/stl_uninitialized.h \
  /usr/include/c++/9/bits/stl_vector.h \
  /usr/include/c++/9/bits/stl_bvector.h /usr/include/c++/9/bits/vector.tcc \
- /home/ubuntu/Desktop/RG-projekat/project_base/include/learnopengl/model.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/include/stb_image.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/learnopengl/model.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/stb_image.h \
  /usr/include/assimp/Importer.hpp /usr/include/assimp/types.h \
  /usr/include/assimp/defs.h /usr/include/assimp/config.h \
  /usr/include/assimp/vector3.h /usr/include/assimp/vector2.h \
@@ -369,7 +369,7 @@ CMakeFiles/project_base.dir/src/main.cpp.o: \
  /usr/include/assimp/camera.h /usr/include/assimp/material.h \
  /usr/include/assimp/material.inl /usr/include/assimp/anim.h \
  /usr/include/assimp/metadata.h /usr/include/assimp/postprocess.h \
- /home/ubuntu/Desktop/RG-projekat/project_base/include/learnopengl/mesh.h \
+ /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/learnopengl/mesh.h \
  /usr/include/c++/9/map /usr/include/c++/9/bits/stl_tree.h \
  /usr/include/c++/9/ext/aligned_buffer.h \
  /usr/include/c++/9/bits/stl_map.h /usr/include/c++/9/tuple \

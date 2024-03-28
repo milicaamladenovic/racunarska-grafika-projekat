@@ -1,1 +1,1 @@
-const char * logl_root = "/home/ubuntu/Desktop/RG-projekat/project_base";
+const char * logl_root = "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat";
