@@ -46,6 +46,17 @@ bool firstMouse = true;
 float deltaTime = 0.0f;
 float lastFrame = 0.0f;
 
+struct PointLIght{
+    glm::vec3 position;
+    glm::vec3 ambient;
+    glm::vec3 diffuse;
+    glm::vec3 specular;
+
+    float constant;
+    float linear;
+    float quadratic;
+};
+
 int main() {
     // glfw: initialize and configure
     // ------------------------------
@@ -97,7 +108,14 @@ int main() {
     // -----------
     Model ourModel("resources/objects/cat/cat.obj");
 
-
+    PointLIght pointLIght;
+    pointLIght.position=glm::vec3 (0.0f, 0.0f, 0.0f);
+    pointLIght.ambient=glm::vec3(0.4, 0.4, 0.4);
+    pointLIght.diffuse=glm::vec3(0.6, 0.6, 0.6);
+    pointLIght.specular=glm::vec3 (1.0, 1.0, 1.0); //belo svetlo
+    pointLIght.constant=1.0f;
+    pointLIght.linear=0.0f;
+    pointLIght.quadratic=0.032f;
 
     float skyboxVertices[] = {
             // positions
@@ -143,6 +161,7 @@ int main() {
             -1.0f, -1.0f,  1.0f,
             1.0f, -1.0f,  1.0f
     };
+
 
 
     // skybox VAO
@@ -196,6 +215,16 @@ int main() {
 
         // don't forget to enable shader before setting uniforms
         ourShader.use();
+
+        pointLIght.position=glm::vec3(3.0f, 4.0f, 4.0f);
+        ourShader.setVec3("pointLight.position", pointLIght.position);
+        ourShader.setVec3("pointLight.ambient", pointLIght.ambient);
+        ourShader.setVec3("pointLight.diffuse", pointLIght.diffuse);
+        ourShader.setVec3("pointLight.specular", pointLIght.specular);
+        ourShader.setFloat("pointLight.constant", pointLIght.constant);
+        ourShader.setFloat("pointLight.linear", pointLIght.linear);
+        ourShader.setFloat("pointLight.quadratic", pointLIght.quadratic);
+        ourShader.setVec3("viewPosition", camera.Position);
 
         // view/projection transformations
         glm::mat4 projection = glm::perspective(glm::radians(camera.Zoom),
