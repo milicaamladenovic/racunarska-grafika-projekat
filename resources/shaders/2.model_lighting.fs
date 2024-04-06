@@ -7,6 +7,7 @@ in vec2 TexCoords;
 
 uniform sampler2D texture_diffuse1;
 uniform sampler2D texture_specular1;
+uniform sampler2D texture1;
 
 struct PointLight {
     vec3 position;
@@ -31,6 +32,7 @@ void main()
     vec3 viewDir=normalize(viewPosition-FragPos);
     vec3 result=CalcPointLight(pointLight, normal, FragPos, viewDir);
     FragColor = vec4(result, 1.0);
+
 }
 
 // calculates the color when using a point light.
@@ -38,7 +40,7 @@ vec3 CalcPointLight(PointLight light, vec3 normal, vec3 fragPos, vec3 viewDir)
 {
     vec3 lightDir = normalize(light.position - fragPos);
     // diffuse shading
-    float diff = max(dot(normal, lightDir), 0.0);
+    float diff = max(dot(normal, lightDir), 0.0)*10.0f;
     // specular shading
     vec3 reflectDir = reflect(-lightDir, normal);
     float spec = pow(max(dot(viewDir, reflectDir), 0.0), 32.0f);
