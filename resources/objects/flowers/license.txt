@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tulips bouquet
+* source:	https://sketchfab.com/3d-models/tulips-bouquet-2bb621c42485443fa87e19badff916e4
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tulips bouquet" (https://sketchfab.com/3d-models/tulips-bouquet-2bb621c42485443fa87e19badff916e4) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
