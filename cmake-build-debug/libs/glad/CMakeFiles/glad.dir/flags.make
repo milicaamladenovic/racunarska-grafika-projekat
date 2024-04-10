@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad/include
+C_INCLUDES = -I/home/ubuntu/Desktop/RG-git/rg-projekat/libs/glad/include
 
 C_FLAGS = -g -fdiagnostics-color=always
 

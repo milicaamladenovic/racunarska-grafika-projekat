@@ -1,8 +1,8 @@
 libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_opengl3.cpp.o: \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/src/imgui_impl_opengl3.cpp \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/src/imgui_impl_opengl3.cpp \
  /usr/include/stdc-predef.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imgui.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imconfig.h \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/include/imgui.h \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/include/imconfig.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/float.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h /usr/include/string.h \
@@ -18,7 +18,7 @@ libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_opengl3.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /usr/include/assert.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imgui_impl_opengl3.h \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/include/imgui_impl_opengl3.h \
  /usr/include/stdio.h /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
@@ -38,5 +38,5 @@ libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_opengl3.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad/include/glad/glad.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad/include/KHR/khrplatform.h
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/glad/include/glad/glad.h \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/glad/include/KHR/khrplatform.h

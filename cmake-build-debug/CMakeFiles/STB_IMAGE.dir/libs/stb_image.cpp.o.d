@@ -1,7 +1,7 @@
 CMakeFiles/STB_IMAGE.dir/libs/stb_image.cpp.o: \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/stb_image.cpp \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/stb_image.cpp \
  /usr/include/stdc-predef.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/include/stb_image.h \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/include/stb_image.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \

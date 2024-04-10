@@ -113,6 +113,7 @@ int main() {
     // -------------------------
     Shader ourShader("resources/shaders/2.model_lighting.vs", "resources/shaders/2.model_lighting.fs");
     Shader skyboxShader("resources/shaders/skybox.vs", "resources/shaders/skybox.fs");
+    Shader hdrShader("resources/shaders/hdr.vs", "resources/shaders/hdr.fs");
 
 
     // load models
@@ -139,6 +140,9 @@ int main() {
     _wine.SetShaderTextureNamePrefix("material.");
     Model _butterfly("resources/objects/butterfly/scene.gltf");
     _butterfly.SetShaderTextureNamePrefix("material.");
+
+
+    
 
 
     PointLIght pointLight;
@@ -272,7 +276,7 @@ int main() {
         ourShader.setFloat("material.shininess", 32.0f);
         ourShader.setInt("blinn", blinn);
 
-//        std::cout << (blinn ? "Blinn-Phong" : "Phong") << std::endl;
+        std::cout << (blinn ? "Blinn-Phong" : "Phong") << std::endl;
 
         // view/projection transformations
         glm::mat4 projection = glm::perspective(glm::radians(camera.Zoom),

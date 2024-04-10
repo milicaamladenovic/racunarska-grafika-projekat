@@ -1,5 +1,5 @@
-/home/ubuntu/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat -B /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/cmake-build-debug
+/home/ubuntu/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/ubuntu/Desktop/RG-git/rg-projekat -B /home/ubuntu/Desktop/RG-git/rg-projekat/cmake-build-debug
 -- Found ASSIMP: /usr/lib/x86_64-linux-gnu/libassimp.so
--- Configuring done (0.1s)
--- Generating done (0.0s)
--- Build files have been written to: /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: /home/ubuntu/Desktop/RG-git/rg-projekat/cmake-build-debug

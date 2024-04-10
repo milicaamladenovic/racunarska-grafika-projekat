@@ -1,8 +1,8 @@
 libs/imgui/CMakeFiles/imgui.dir/src/imgui_demo.cpp.o: \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/src/imgui_demo.cpp \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/src/imgui_demo.cpp \
  /usr/include/stdc-predef.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imgui.h \
- /home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/include/imconfig.h \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/include/imgui.h \
+ /home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/include/imconfig.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/float.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h /usr/include/string.h \

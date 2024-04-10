@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/project_base"
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/project_base.pdb"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/project_base"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/project_base.pdb"
   "CMakeFiles/project_base.dir/src/main.cpp.o"
   "CMakeFiles/project_base.dir/src/main.cpp.o.d"
 )

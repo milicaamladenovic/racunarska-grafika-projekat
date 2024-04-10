@@ -30,15 +30,15 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/ubuntu/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux.cmake"
   "/home/ubuntu/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/UnixPaths.cmake"
   "/home/ubuntu/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/ProcessorCount.cmake"
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/CMakeLists.txt"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/CMakeLists.txt"
   "CMakeFiles/3.26.4/CMakeCCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeSystem.cmake"
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/cmake/modules/FindASSIMP.cmake"
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/cmake/modules/FindGLFW3.cmake"
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/configuration/root_directory.h.in"
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad/CMakeLists.txt"
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/imgui/CMakeLists.txt"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/cmake/modules/FindASSIMP.cmake"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/cmake/modules/FindGLFW3.cmake"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/configuration/root_directory.h.in"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/libs/glad/CMakeLists.txt"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/libs/imgui/CMakeLists.txt"
   )
 
 # The corresponding makefile is:

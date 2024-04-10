@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ubuntu/Desktop/RG-git/racunarska-grafika-projekat/libs/glad/src/glad.c" "libs/glad/CMakeFiles/glad.dir/src/glad.c.o" "gcc" "libs/glad/CMakeFiles/glad.dir/src/glad.c.o.d"
+  "/home/ubuntu/Desktop/RG-git/rg-projekat/libs/glad/src/glad.c" "libs/glad/CMakeFiles/glad.dir/src/glad.c.o" "gcc" "libs/glad/CMakeFiles/glad.dir/src/glad.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
