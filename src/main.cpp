@@ -73,7 +73,7 @@ struct ProgramState {
     float backpackScale = 1.0f;
     PointLIght pointLight;
     ProgramState()
-            : camera(glm::vec3(-150.0f, 150.0f, 50.0f)) {}
+            : camera(glm::vec3(0.0f, 0.0f, 3.0f)) {}
 
     void SaveToFile(std::string filename);
 
