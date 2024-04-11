@@ -1,8 +1,6 @@
 # Piknik
 Projekat iz racunarske grafike 
 
-# Implementirane tehnike
-
 
 ## Uputstvo
   - [WASD] -> kretanje po sceni
@@ -17,7 +15,7 @@ Projekat iz racunarske grafike
   - [x] Cubemap (A grupa)
   - [x] HDR, Bloom (B grupa)
 
-##Resursi
+## Resursi
   - 
 
 
