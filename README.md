@@ -30,5 +30,5 @@ Projekat iz racunarske grafike
 
 Godina: 2023/24 \
 Profesor: Vesna Marinkovic \
-Asistent: Marko Spasic \
+Asistent: Marko Spasic 
 
