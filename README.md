@@ -17,18 +17,18 @@ Projekat iz racunarske grafike
 
 ## Resursi
   - [Leptir](https://sketchfab.com/3d-models/monarch-butterfly-3a5fc9a496cb402297ffdb6700d2ab60)
-  - [Macka]()
-  - [Pas]()
-  - [Buket cveca]()
+  - [Macka](https://free3d.com/3d-model/cat-v1--522281.html)
+  - [Pas](https://sketchfab.com/3d-models/dog-e395f26615ca445ab32f01ded17ff3bf)
+  - [Buket cveca](https://sketchfab.com/3d-models/tulips-bouquet-2bb621c42485443fa87e19badff916e4)
   - [Cvece]()
-  - [Sto]()
-  - [Tart]()
-  - [Lopta]()
-  - [Korpa]()
+  - [Sto](https://www.turbosquid.com/3d-models/3d-realistic-picnic-table-1625329)
+  - [Tart](https://sketchfab.com/3d-models/fruit-tart-e7822dcde0c448289e62daeb6075d680)
+  - [Lopta](https://www.turbosquid.com/3d-models/basketball-classic-standard-ball-3d-model-2104302)
+  - [Korpa](https://free3d.com/3d-model/wicker-basket-v1--536042.html)
   - [Vino i case]()
 
 
 Godina: 2023/24 \
 Profesor: Vesna Marinkovic \
-Asistent: Marko Spasic
+Asistent: Marko Spasic \
 
