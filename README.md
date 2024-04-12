@@ -28,7 +28,7 @@ Projekat iz racunarske grafike
   - [Vino i case]()
 
 
-Godina: 2023/24
-Profesor: Vesna Marinkovic
+Godina: 2023/24 \
+Profesor: Vesna Marinkovic \
 Asistent: Marko Spasic
 
