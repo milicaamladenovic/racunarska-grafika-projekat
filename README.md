@@ -16,7 +16,16 @@ Projekat iz racunarske grafike
   - [x] HDR, Bloom (B grupa)
 
 ## Resursi
-  - 
+  - [Leptir](https://sketchfab.com/3d-models/monarch-butterfly-3a5fc9a496cb402297ffdb6700d2ab60)
+  - [Macka]()
+  - [Pas]()
+  - [Buket cveca]()
+  - [Cvece]()
+  - [Sto]()
+  - [Tart]()
+  - [Lopta]()
+  - [Korpa]()
+  - [Vino i case]()
 
 
 Godina: 2023/24
